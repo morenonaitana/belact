@@ -1,0 +1,28 @@
+## Current
+
+Issue when Whiteboard painting issue when going out of the canvas or on top of the buttons
+
+Issue when the teacher is connecting, he sees the student UI first
+
+Need to upgrade cloud of client for the silent questions issue
+
+Responsive of the current views
+
+bug when going from the whiteboard to the main view, otggling source is not working anymore
+
+Sometimes when adding a silent question, it's uploading twice
+
+
+## TO DO
+
+Audience
+
+Seating view
+
+Welcome screen
+
+Recording
+
+Integrating Overture
+
+Find task for Divy after polling
